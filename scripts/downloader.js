@@ -15,7 +15,7 @@
 
 var downloader = {};
 
-downloader.path = "file:///home/trillobite/Documents/gitProjects/downloader";
+downloader.path = "file:///home/trillobite/Documents/gitProjects/miniDownloader";
 downloader.inputBox = {};
 downloader.inputBox.isClicked = false;
 downloader.inputBox.input = $jConstruct('textbox', {
