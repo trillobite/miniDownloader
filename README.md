@@ -4,6 +4,10 @@ Just a simple mini downloader tool written with jsonHTML.
 use
 ---
 
+Requires jQuery, and jsonHTML (included).
+
+downloader.js located within the scripts folder is what you want for your project.
+
 ```javascript
 downloader.path = "file://C:/myFolder"
 var myDownloader = downloader.inputBox.build(); //build the downloader.
